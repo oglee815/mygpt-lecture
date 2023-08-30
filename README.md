@@ -8,4 +8,4 @@
 [data_creation.ipynb](https://colab.research.google.com/github/oglee815/mygpt-lecture/blob/main/data_creation.ipynb)
 
 # 강화학습 연습 코드
-[ppo_practice.ipynb](https://colab.research.google.com/github/oglee815/mygpt-lecture/blob/main/ppo_practice.ipynb)
+[ppo_practice.ipynb](https://colab.research.google.com/github/oglee815/mygpt-lecture/blob/main/PPO_practice.ipynb)
