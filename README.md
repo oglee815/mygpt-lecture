@@ -15,9 +15,12 @@ https://github.com/airobotlab/KoChatGPT
 
 # 데이터 생성 코드
 [data_creation.ipynb](https://colab.research.google.com/github/oglee815/mygpt-lecture/blob/main/data_creation.ipynb)
+- ChatGPT API를 통해 데이터 자동 생성
+- <img src='https://github.com/oglee815/mygpt-lecture/assets/18374514/6152debd-2001-4366-914f-b3152a34098f' width=800>
 
-# 강화학습 연습 코드
-[ppo_practice.ipynb](https://colab.research.google.com/github/oglee815/mygpt-lecture/blob/main/PPO_practice.ipynb)
+# PPO 강화학습 연습 코드(Lunar Lander2)
+- [ppo_practice.ipynb](https://colab.research.google.com/github/oglee815/mygpt-lecture/blob/main/PPO_practice.ipynb)
+- <img src='https://github.com/oglee815/mygpt-lecture/assets/18374514/4f9c9da4-f66c-4202-b671-1e3867df5e8b' width=500>
 
 # 학습 결과 예시
 - SKT-KoGPT2와 나무 위키의 '아이브' 카테고리 데이터를 기반으로 ChatGPT의 Stage 1, 2, 3를 학습 한 뒤, Stage 1의 SFT와 결과 비교
