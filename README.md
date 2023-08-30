@@ -20,7 +20,7 @@ https://github.com/airobotlab/KoChatGPT
 [ppo_practice.ipynb](https://colab.research.google.com/github/oglee815/mygpt-lecture/blob/main/PPO_practice.ipynb)
 
 # 학습 결과 예시
-- 나무 위키의 '아이브' 카테고리 데이터를 기반으로 ChatGPT의 Stage 1, 2, 3를 학습 한 뒤, Stage 1의 SFT와 결과 비교
+- SKT-KoGPT2와 나무 위키의 '아이브' 카테고리 데이터를 기반으로 ChatGPT의 Stage 1, 2, 3를 학습 한 뒤, Stage 1의 SFT와 결과 비교
 - <img src='https://github.com/oglee815/mygpt-lecture/assets/18374514/5642277e-85da-4365-93b4-c6ca1ab6fdbb' width=800>
 - KL Penalty 덕분인지 의외로 동일한 Output을 내놓는 경우가 많음
 
