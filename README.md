@@ -1,5 +1,3 @@
-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
-
 # mygpt-lecture
 본 자료는 '나만의 데이터로 만드는 MyGPT 강의' 관련 자료입니다.
 
