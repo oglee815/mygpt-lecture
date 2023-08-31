@@ -1,5 +1,7 @@
 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
 
+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
+
 # mygpt-lecture
 본 자료는 '나만의 데이터로 만드는 MyGPT 강의' 관련 자료입니다.
 
