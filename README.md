@@ -31,5 +31,5 @@ https://github.com/airobotlab/KoChatGPT
 - KL Penalty 덕분인지 의외로 동일한 Output을 내놓는 경우가 많음
 
 # 자료 관련 문의
-- oglee815@gmail.com
+- 이현제, oglee815@gmail.com
 - h8.lee@samsung.com
