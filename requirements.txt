@@ -1,0 +1,10 @@
+torch==1.13.1
+transformers
+accelerate
+colossalai==0.2.7
+openai
+langchain==0.0.113
+pandas>=1.4.1
+datasets
+jsonlines
+loralib
