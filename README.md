@@ -1,4 +1,5 @@
 # update
+- 2024-6-13: 데이터 생성과 학습 노트북 통합 -> 하나의 colab 노트북으로 통일
 - 2023-10-24: 라인 넘버 추가 및 코드 정리
 
 # mygpt-lecture
@@ -17,7 +18,7 @@ https://github.com/airobotlab/KoChatGPT
 [my_gpt실습.ipynb](https://colab.research.google.com/github/oglee815/mygpt-lecture/blob/main/mygpt_실습.ipynb)
 
 # 데이터 생성 코드
-[data_creation.ipynb](https://colab.research.google.com/github/oglee815/mygpt-lecture/blob/main/data_creation.ipynb)
+[my_gpt실습.ipynb](https://colab.research.google.com/github/oglee815/mygpt-lecture/blob/main/mygpt_실습.ipynb)
 - ChatGPT API를 통해 데이터 자동 생성
 - <img src='https://github.com/oglee815/mygpt-lecture/assets/18374514/6152debd-2001-4366-914f-b3152a34098f' width=800>
 
